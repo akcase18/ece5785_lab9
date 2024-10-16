@@ -1,4 +1,4 @@
-# Lab 9: Verification
+# Lab 9: Verification - Aidan and Varun
 ## Invariants
 ### Environmental Invariants
 - Depart signal will always occur after an approach signal
